@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+figures_*
+photos*
+data_*
+*~
+*.root
