@@ -17,11 +17,11 @@ Usage:
 
 	      coolant
 	      tubing
-              triangle
-              backplate
-              sensor
-              module
-              ambient
+	      triangle
+	      backplate
+	      sensor
+ 	      module
+	      ambient
 
 * You may have to create another channel description in the channels.py file
 * I still have to think how to add different setups. I think in a next version, I will make the plots configurable.
